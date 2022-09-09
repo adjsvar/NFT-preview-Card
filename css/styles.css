@@ -103,10 +103,6 @@ h1 {
     opacity: 1;
 }
 
-.container > .img_container > .hover_icon > img {
-    z-index: 1;
-}
-
 .container > .details {
     display: flex;
     justify-content: space-between;
