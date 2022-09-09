@@ -75,11 +75,11 @@ h1 {
 .container > .img_container {    
     position: relative;
     max-width: 300px;
-    max-height: 300px;
 }
 
 .container > .img_container > img {
-    max-width: 300px;
+    max-width: 100%;
+    display: block;
     border-radius: 15px;
 }
 
