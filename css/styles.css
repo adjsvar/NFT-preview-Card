@@ -96,6 +96,7 @@ h1 {
     display: grid;
     place-content: center;
     transition: opacity 0.4s;
+    cursor: pointer;
 }
 
 .container > .img_container > .hover_efect:hover {
